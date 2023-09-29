@@ -1,10 +1,6 @@
+
 # 基于springboot的养老院管理系统
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**养老院** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,49 +31,41 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236204.jpg)
+
+![登录](https://img-blog.csdnimg.cn/img_convert/3e593bfabd6e29a04960b6bd11cbc852.jpeg)
 
 ### 4.2 用户模块
 
-![用户-家人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236548.jpg)
-
+![用户-家人信息](https://img-blog.csdnimg.cn/img_convert/8fc061589b7398f993f3e170cc8d718f.jpeg)
 ### 4.3 管理员模块
 
-![超级管理员-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236403.jpg)
+![超级管理员-首页](https://img-blog.csdnimg.cn/img_convert/9cd1779524a6fbb3665f87031c1b6dae.jpeg)
 
-![超级管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236427.jpg)
+![超级管理员-用户管理](https://img-blog.csdnimg.cn/img_convert/adc4da952286219b4bccf7b92229ca25.jpeg)
 
-![超级管理员-健康管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236846.jpg)
+![超级管理员-健康管理](https://img-blog.csdnimg.cn/img_convert/7b2cee2575e0e9b125173e594e215f2a.jpeg)
 
-![超级管理员-病例档案管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236925.jpg)
+![超级管理员-病例档案管理](https://img-blog.csdnimg.cn/img_convert/c598054c9693a8fbf223b5e4c4c0d7bd.jpeg)
 
-![超级管理员-药品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236763.jpg)
+![超级管理员-药品管理](https://img-blog.csdnimg.cn/img_convert/b77f45276991a7e4c75423fcf5f44ed3.jpeg)
 
-![超级管理员-餐饮管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236521.jpg)
+![超级管理员-餐饮管理](https://img-blog.csdnimg.cn/img_convert/1f7f01b1595dc542eced6b6e9d4347ef.jpeg)
 
-![超级管理员-外出管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236051.jpg)
+![超级管理员-外出管理](https://img-blog.csdnimg.cn/img_convert/95466a7aefc878fb8d66bd8e979e201a.jpeg)
 
-![超级管理员-入住管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236227.jpg)
+![超级管理员-入住管理](https://img-blog.csdnimg.cn/img_convert/c24abac45b2c7d4040f128a268eba59c.jpeg)
 
-![超级管理员-寝室分配](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236660.jpg)
+![超级管理员-寝室分配](https://img-blog.csdnimg.cn/img_convert/780fdfcd4a0c1004f744312b4cb31c4d.jpeg)
 
-![超级管理员-事故记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236737.jpg)
+![超级管理员-访客管理](https://img-blog.csdnimg.cn/img_convert/2c410355b31fe1dc837ea40bcb0802de.jpeg)
 
-![超级管理员-访客管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236684.jpg)
+![超级管理员-入住费用](https://img-blog.csdnimg.cn/img_convert/66cd404990f57c595a4b81e36bec84b1.jpeg)
 
-![超级管理员-入住费用](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236524.jpg)
-
-![超级管理员-护理费用](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212252236406.jpg)
-
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： **养老院**，获取完整版源码
+![超级管理员-护理费用](https://img-blog.csdnimg.cn/img_convert/09199b45a861ac7d7f6600f26b5fd119.jpeg)
 
 
+### 获取方式&视频演示
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+下方扫一下，回复关键词：养老院
 
+![gitee](https://img-blog.csdnimg.cn/img_convert/4e26bb96ed773d540dc29394ce66a322.png)
